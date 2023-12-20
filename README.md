@@ -5,7 +5,10 @@ A new Flutter project.
 ## Getting Started
 
 
-https://github.com/akarshrnz/walking_animation_2/assets/77736922/93e6a041-e763-4794-9a6d-5427ec1fed3c
+
+
+https://github.com/akarshrnz/walking_animation_2/assets/77736922/0403b459-de8c-4f5a-83ab-f3cb03da9753
+
 
 
 This project is a starting point for a Flutter application.
