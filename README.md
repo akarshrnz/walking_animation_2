@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+
+https://github.com/akarshrnz/walking_animation_2/assets/77736922/93e6a041-e763-4794-9a6d-5427ec1fed3c
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
